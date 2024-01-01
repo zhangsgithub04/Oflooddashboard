@@ -86,7 +86,7 @@ const WeeklyOverview = () => {
   return (
     <Card>
       <CardHeader
-        title='Weekly Overview'
+        title='Weekly Overview on the Flood Data in Otsego County!'
         titleTypographyProps={{
           sx: { lineHeight: '2rem !important', letterSpacing: '0.15px !important' }
         }}
