@@ -30,7 +30,7 @@ const Trophy = () => {
   return (
     <Card sx={{ position: 'relative' }}>
       <CardContent>
-        <Typography variant='h6'>Congratulations Oneonta! 🥳</Typography>
+        <Typography variant='h6'>Congratulations Boardx! 🥳</Typography>
         <Typography variant='body2' sx={{ letterSpacing: '0.25px' }}>
           Best seller of the month (something else)
         </Typography>
